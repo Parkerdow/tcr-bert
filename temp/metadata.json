@@ -1,0 +1,5 @@
+{
+    "sklearn": "0.24.1",
+    "transformer": "wukevin/tcr-bert",
+    "commit": "63aa483ec25a8f4727d1905267499ede75f524de"
+}
